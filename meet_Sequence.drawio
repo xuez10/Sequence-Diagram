@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T09:12:53.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="f4XtWQ7ez6Ks6FSDLfvb" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-27T10:20:27.428Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Vy_7OjZ8gjgwJC0ZowKy" version="13.6.5" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1585" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="0">
       <root>
@@ -850,6 +850,9 @@
             <mxPoint x="762.4" y="2760" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="b2PtK0ISg53wSsYbWz4A-254" value="&lt;font color=&quot;#000000&quot;&gt;MediaSoup disconnect&lt;br&gt;&lt;br&gt;TMS disconnect&lt;br&gt;&lt;br&gt;MS should base on TMS&lt;br&gt;When MS and TMS both disconnect, reconnect TMS first&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=1;strokeColor=#000000;fillColor=#FF5F59;fontColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="-92" y="2666" width="168" height="173" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
