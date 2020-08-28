@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T03:52:12.815Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="pQdv1Y4pIsM0rzfK3y3h" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T05:09:49.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="kgVPH-DsPbTJ1VZPV1hR" version="13.6.5" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1585" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1004,6 +1004,16 @@
         <mxCell id="esyUfDl3fiDnbeYhQ3LY-22" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;disconnect&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="esyUfDl3fiDnbeYhQ3LY-21">
           <mxGeometry x="-0.2436" y="-1" relative="1" as="geometry">
             <mxPoint x="56.309999999999995" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="esyUfDl3fiDnbeYhQ3LY-23" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font color=&quot;#000000&quot; face=&quot;verdana&quot;&gt;reconnect(timeout)&lt;/font&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;fontColor=#99CCFF;" edge="1" parent="1">
+          <mxGeometry x="-0.0047" relative="1" as="geometry">
+            <mxPoint x="90.32" y="3380" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="115.32000000000016" y="3379.999999999999" />
+            </Array>
+            <mxPoint x="89.99999999999983" y="3410" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
