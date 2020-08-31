@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T07:48:39.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="ifUGxkad_L7-ynnl8ehg" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T07:52:26.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="s48gaLe09lGuUgWMOHl3" version="13.6.5" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="1822" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="2336" background="#ffffff" math="0" shadow="0">
       <root>
@@ -866,7 +866,7 @@
             <mxPoint x="570" y="2810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b2PtK0ISg53wSsYbWz4A-263" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;disconnect&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Verdana;" parent="b2PtK0ISg53wSsYbWz4A-262" vertex="1" connectable="0">
+        <mxCell id="b2PtK0ISg53wSsYbWz4A-263" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 17px&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;disconnect to KoaServer&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Verdana;" parent="b2PtK0ISg53wSsYbWz4A-262" vertex="1" connectable="0">
           <mxGeometry x="-0.2436" y="-1" relative="1" as="geometry">
             <mxPoint x="56.309999999999995" y="-1" as="offset" />
           </mxGeometry>
@@ -989,7 +989,7 @@
             <mxPoint x="759.5" y="3350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="esyUfDl3fiDnbeYhQ3LY-22" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;disconnect&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Verdana;" parent="esyUfDl3fiDnbeYhQ3LY-21" vertex="1" connectable="0">
+        <mxCell id="esyUfDl3fiDnbeYhQ3LY-22" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 17px&quot;&gt;&lt;b style=&quot;font-size: 17px&quot;&gt;disconnect to TMSServer&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;fontFamily=Verdana;" parent="esyUfDl3fiDnbeYhQ3LY-21" vertex="1" connectable="0">
           <mxGeometry x="-0.2436" y="-1" relative="1" as="geometry">
             <mxPoint x="56.309999999999995" y="-1" as="offset" />
           </mxGeometry>
